@@ -1,6 +1,6 @@
 # seesparkbox.com is a public project!
 
-We've been [really open](building.seesparkbox.com) with the rebuild of our new website. We've finally launched it, and we'd love your help as we refine.
+We've been [really open](building.seesparkbox.com) about the rebuild of our new website. We've finally launched it, and we'd love your help as we refine.
 
 We built the site iteratively—-building in layers and pushing frequent releases--and we plan to keep working on the site that way.
 
